@@ -1,4 +1,4 @@
-### Hello World, I'm George 👨🏾‍💻 🌍 🇺🇬
+### Hello World, I'm George 👨🏾‍💻 🌍 
 
 <!--
 **georgetoolit1/georgetoolit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
