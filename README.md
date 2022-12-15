@@ -1,6 +1,6 @@
-### Hi there 👋🏾
+### Hi there
 
-My name is George . I am DevOps Engineer and Automation Engineer. 
+My name is George . I am DevOps Engineer with a passion for automating tasks. 
 
 <!--
 **georgetoolit1/georgetoolit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
