@@ -1,5 +1,6 @@
 ### Hi there
 
+
 My name is George. I am DevOps Engineer with a passion for automating tasks. 
 Result-driven AWS Certified Cloud Engineer with 5+ years of experience in Software Development Lifecycle and automating mission critical Software releases.
 In-depth knowledge of automating and managing infrastructure. 
@@ -15,6 +16,13 @@ An enthusiastic team player and effective communicator which allows me to get th
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+
+#### Reach Me ✉️
+<p align="justify">
+<a href="https://www.linkedin.com/in/georgetoolit/"><img src="https://img.shields.io/badge/-George%20Toolit%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/GeorgieLadit"><img src="https://img.shields.io/badge/-@GeorgieLadit-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=georgetoolit1&color=brightgreen" alt="watching_count" />
+</p>
 <!--
 **georgetoolit1/georgetoolit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
