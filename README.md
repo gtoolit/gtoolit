@@ -1,6 +1,9 @@
 ### Hi there
 
-My name is George . I am DevOps Engineer with a passion for automating tasks. 
+My name is George. I am DevOps Engineer with a passion for automating tasks. 
+Result-driven AWS Certified Cloud Engineer with 5+ years of experience in Software Development Lifecycle and automating mission critical Software releases.
+In-depth knowledge of automating and managing infrastructure. 
+An enthusiastic team player and effective communicator which allows me to get the most from teams when managing projects.
 
 
 #### Current Stack 😎
